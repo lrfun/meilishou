@@ -1,0 +1,77 @@
+@charset "utf-8";
+/*css document*/
+
+body
+{
+	background-color:#F5F5F5; 
+}
+
+.navbar-brands img
+{
+	padding: 5px 50px 5px 15px;
+	
+}
+.nav li
+{
+	font-size: 20px;
+	margin: 0px 10px;
+
+}
+.navbar-form .btn
+{
+	margin-left: 20px;
+}
+
+/*瀑布流*/
+.container-fluids
+{
+  margin:5px;
+}
+.box
+{
+  margin-bottom: 20px;
+  float: left;
+  width: 210px;
+  border: #e7e7e7 solid 1px;
+  margin-left:15px;
+  overflow: hidden;
+}
+.box img 
+{
+  max-width: 100%
+}
+.sales
+{
+	overflow: hidden;
+}
+.detail
+{
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.detail h3, .detail p
+{
+	font-size: 12px;
+	color: #000;
+}
+.detail img
+{
+	margin-right: 10px;
+}
+
+.userInfor
+{
+	border-top:#e7e7e7  dashed 1px;
+	overflow: hidden;
+
+}
+.userInfor p
+{
+	margin-left: 40px;
+}
+#page_loading 
+{
+	margin-left:50%;
+	margin-top: 200px;
+}
